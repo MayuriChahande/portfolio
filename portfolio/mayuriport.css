@@ -1,0 +1,73 @@
+#box{
+    background-color:rgb(30, 29, 29);
+height: 800px;
+width: 110%;
+position: absolute;
+left: 0;
+right: 0;
+
+
+}
+#lcon{
+    font-size: 42px;
+    position: absolute;
+    top: 4px;
+    left: 12px;
+    color: white;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'courier new';
+    color: white;
+    position: absolute;
+    top: -25px;
+    left: 75px;
+}
+
+#main{
+    list-style: none;
+    position: absolute;
+  color: white;
+    top:0;
+    left: 800px;
+}
+.x{
+text-decoration: none;
+font-size: 20px;
+font-family: 'Dancing Script', cursive;
+color: black;
+color: white;
+
+}
+#main2{
+    display: inline;
+    padding: 15px;
+    margin: 15px;
+}
+
+#first{
+    background-color:black;
+    width: 100%;
+    height: 45px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+#intro img{
+   border-radius: 20%;
+   padding: 20px 20px 20px  20px;
+}
+#intro p{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+   color: white;
+    position: absolute;
+    left: 400px;
+    top: 250px;
+    padding-left: 40px;
+    padding-right: 160px;
+    
+  
+}
